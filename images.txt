@@ -1,1 +1,1 @@
-mysql:5.7
+mysqld_exporter
